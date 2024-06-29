@@ -1271,3 +1271,10 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.error{
+  color: red;
+  font-style: italic;
+  font-weight: bold;
+  font-size: small;
+}
